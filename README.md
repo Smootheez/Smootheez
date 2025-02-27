@@ -1,8 +1,8 @@
 # Hi there, I'm Smootheez 👋
 
 ## About Me
-- 🔭 I'm currently working on Spring boot project and Minecraft Mod
-- 🌱 I'm currently learning Spring boot and Web Dev
+- 🔭 I'm currently working on Spring Boot project and Minecraft Mod
+- 🌱 I'm currently learning Spring Boot and Web Dev
 - 👯 I'm looking to collaborate on any project im capable of
 - 📫 How to reach me: [E-Mail](mailto:smootheeblitz@gmail.com)
 - ⚡ Fun fact: Love playing music 🎻
