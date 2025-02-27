@@ -56,15 +56,15 @@
 
 ## Featured Projects
 <div align="center">
-  <a href="https://github.com/Smootheez/Elytra-Control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=Elytra-Control&theme=algolia" />
-  </a>
-
   <a href="https://github.com/Smootheez/jwt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=jwt&theme=algolia" />
   </a>
 
   <a href="https://github.com/Smootheez/smootheez-config-lib">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=smootheez-config-lib&theme=algolia" />
+  </a>
+
+  <a href="https://github.com/Smootheez/Elytra-Control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=Elytra-Control&theme=algolia" />
   </a>
 </div>
