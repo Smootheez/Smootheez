@@ -64,7 +64,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=jwt&theme=nightowl" />
   </a>
 
-  <a hreft="https://github.com/Smootheez/smootheez-config-lib">
+  <a href="https://github.com/Smootheez/smootheez-config-lib">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=smootheez-config-lib&theme=nightowl" />
   </a>
 </div>
