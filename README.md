@@ -52,19 +52,19 @@
 <!-- Add or remove tech badges as needed -->
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Smootheez&show_icons=true&theme=nightowl)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Smootheez&show_icons=true&theme=algolia)
 
 ## Featured Projects
 <div align="center">
   <a href="https://github.com/Smootheez/Elytra-Control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=Elytra-Control&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=Elytra-Control&theme=algolia" />
   </a>
 
   <a href="https://github.com/Smootheez/jwt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=jwt&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=jwt&theme=algolia" />
   </a>
 
   <a href="https://github.com/Smootheez/smootheez-config-lib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=smootheez-config-lib&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=smootheez-config-lib&theme=algolia" />
   </a>
 </div>
