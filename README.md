@@ -67,4 +67,8 @@
   <a href="https://github.com/Smootheez/Elytra-Control">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=Elytra-Control&theme=algolia" />
   </a>
+
+  <a href="https://github.com/Smootheez/scl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=scl&theme=algolia" />
+  </a>
 </div>
