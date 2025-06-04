@@ -72,3 +72,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=scl&theme=algolia" />
   </a>
 </div>
+
+## Donation
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4WBHMZ)
