@@ -79,5 +79,11 @@
 
 ## Donation
 
-[![ko-fi](https://raw.githubusercontent.com/Smootheez/Smootheez/7b16ed55570e49b9320e9cade5e572b271e9f1fe/assets/donation-kofi.svg)](https://ko-fi.com/V7V4WBHMZ)
-[![paypal](https://raw.githubusercontent.com/Smootheez/Smootheez/7b16ed55570e49b9320e9cade5e572b271e9f1fe/assets/donation-paypal.svg)](https://paypal.me/smootheez)
+<div align="center">
+  <a href="https://ko-fi.com/V7V4WBHMZ">
+    <img src="https://raw.githubusercontent.com/Smootheez/Smootheez/7b16ed55570e49b9320e9cade5e572b271e9f1fe/assets/donation-kofi.svg" alt="ko-fi" />
+  </a>
+  <a href="https://paypal.me/smootheez">
+    <img src="https://raw.githubusercontent.com/Smootheez/Smootheez/7b16ed55570e49b9320e9cade5e572b271e9f1fe/assets/donation-paypal.svg" alt="paypal" />
+  </a>
+</div>
