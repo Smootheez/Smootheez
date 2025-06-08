@@ -79,4 +79,5 @@
 
 ## Donation
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4WBHMZ)
+[![ko-fi](https://raw.githubusercontent.com/Smootheez/Smootheez/7b16ed55570e49b9320e9cade5e572b271e9f1fe/assets/donation-kofi.svg)](https://ko-fi.com/V7V4WBHMZ)
+[![paypal](https://raw.githubusercontent.com/Smootheez/Smootheez/7b16ed55570e49b9320e9cade5e572b271e9f1fe/assets/donation-paypal.svg)](https://paypal.me/smootheez)
