@@ -1,6 +1,7 @@
 # Hi there, I'm Smootheez 👋
 
 ## About Me
+
 - 🔭 I'm currently working on Spring Boot project and Minecraft Mod
 - 🌱 I'm currently learning Spring Boot and Web Dev
 - 👯 I'm looking to collaborate on any project im capable of
@@ -8,6 +9,7 @@
 - ⚡ Fun fact: Love playing music 🎻
 
 ## Technologies & Tools
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -52,9 +54,11 @@
 <!-- Add or remove tech badges as needed -->
 
 ## GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Smootheez&show_icons=true&theme=algolia)
 
 ## Featured Projects
+
 <div align="center">
   <a href="https://github.com/Smootheez/jwt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=jwt&theme=algolia" />
@@ -74,4 +78,5 @@
 </div>
 
 ## Donation
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V4WBHMZ)
