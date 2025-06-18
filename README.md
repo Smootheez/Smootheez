@@ -64,8 +64,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=jwt&theme=algolia" />
   </a>
 
-  <a href="https://github.com/Smootheez/seez-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=seez-tools&theme=algolia" />
+  <a href="https://github.com/Smootheez/seez-utils">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smootheez&repo=seez-utils&theme=algolia" />
   </a>
 
   <a href="https://github.com/Smootheez/Elytra-Control">
