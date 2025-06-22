@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Smootheez 21
+# 👋 Hi, I'm Smootheez
 
 I'm a passionate and versatile full-stack developer with a strong foundation in Java and a love for building clean, scalable, and user-focused applications—from backend APIs to polished front-end interfaces.
 
